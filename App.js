@@ -11,7 +11,7 @@ import Shows from './componentes/shows/Shows';
 import Contato from './componentes/contato/Contato';
 
 
-//Variável menu de navegação componente que agrupa as rotas
+//Variável  menu de navegação componente que agrupa as rotas
 const Menu = createBottomTabNavigator();
 
 
